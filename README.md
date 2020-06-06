@@ -1,7 +1,14 @@
 # Dka-Lang v 1.0
  The language in basic stage.
+# How to use?
+
+Download the public folder and run the exe file it will open the shell of DKA LANG and start coading.
+
+# How to contribute?
+
+Basic.py is having all functions and shell.py is used for making shell you can contribute on that.
  
- Grammer used in language
+# Grammer used in language
  
  statements  : NEWLINE* statement (NEWLINE+ statement)* NEWLINE*
 
